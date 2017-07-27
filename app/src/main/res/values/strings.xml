@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Intent</string>
+    <string name="action_settings">Settings</string>
+    <string name="apple">APPLE</string>
+    <string name="ok">OK</string>
+    <string name="title_activity_bank">Bank</string>
+    <string name="button">Button</string>
+    <string name="bank">BANK</string>
+</resources>
